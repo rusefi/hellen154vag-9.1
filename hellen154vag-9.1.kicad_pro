@@ -468,6 +468,7 @@
       "default_text_size": 50.0,
       "default_wire_thickness": 6.0,
       "field_names": [],
+      "intersheets_ref_own_page": false,
       "intersheets_ref_prefix": "",
       "intersheets_ref_short": false,
       "intersheets_ref_show": false,
@@ -482,6 +483,12 @@
       "version": 0
     },
     "net_format_name": "",
+    "ngspice": {
+      "meta": {
+        "version": 0
+      },
+      "model_mode": 0
+    },
     "page_layout_descr_file": "kicad-libraries\\Border.kicad_wks",
     "plot_directory": "gerber/",
     "spice_adjust_passive_values": false,
@@ -491,7 +498,7 @@
   },
   "sheets": [
     [
-      "e1242488-41ba-47d5-a03a-4aad7fb36368",
+      "f2113a63-b4ba-41bd-a668-2b73eb284bcd",
       ""
     ],
     [
